@@ -1,0 +1,13 @@
+it\objectmethod\demo\spring\repository\MemberRepositoryTest.class
+it\objectmethod\demo\spring\controllers\BooksControllerTest.class
+it\objectmethod\demo\spring\services\UsersServiceTest.class
+it\objectmethod\demo\spring\controllers\UserControllerTest.class
+it\objectmethod\demo\spring\models\BookObjectTest.class
+it\objectmethod\demo\spring\models\UserObjectTest.class
+it\objectmethod\demo\spring\services\MembersServiceTest.class
+it\objectmethod\demo\spring\controllers\MembersControllerTest.class
+it\objectmethod\demo\spring\repository\UserRepositoryTest.class
+it\objectmethod\demo\spring\services\BooksServiceTest.class
+it\objectmethod\demo\spring\repository\BookRepositoryTest.class
+it\objectmethod\demo\spring\models\MemberObjectTest.class
+it\objectmethod\demo\spring\services\JwtServiceTest.class

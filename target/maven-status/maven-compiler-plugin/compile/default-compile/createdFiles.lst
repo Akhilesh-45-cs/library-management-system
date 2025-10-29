@@ -1,0 +1,17 @@
+it\objectmethod\demo\spring\services\JwtService.class
+it\objectmethod\demo\spring\services\BooksService.class
+it\objectmethod\demo\spring\services\MembersService.class
+it\objectmethod\demo\spring\controllers\MembersController.class
+it\objectmethod\demo\spring\repository\UserRepository.class
+it\objectmethod\demo\spring\models\UserObject.class
+it\objectmethod\demo\spring\utils\Constants.class
+it\objectmethod\demo\spring\controllers\BooksController.class
+it\objectmethod\demo\spring\controllers\filters\CorsFilter.class
+it\objectmethod\demo\spring\services\UsersService.class
+it\objectmethod\demo\spring\controllers\UserController.class
+it\objectmethod\demo\spring\repository\BookRepository.class
+it\objectmethod\demo\spring\Application.class
+it\objectmethod\demo\spring\models\MemberObject.class
+it\objectmethod\demo\spring\controllers\filters\AuthenticationFilter.class
+it\objectmethod\demo\spring\repository\MemberRepository.class
+it\objectmethod\demo\spring\models\BookObject.class
