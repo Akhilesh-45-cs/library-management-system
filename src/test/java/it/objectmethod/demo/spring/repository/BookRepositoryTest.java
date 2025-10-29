@@ -1,4 +1,5 @@
 package it.objectmethod.demo.spring.repository;
+// Added for pull request test
 
 import static org.assertj.core.api.Assertions.assertThat;
 
